@@ -1,4 +1,4 @@
-package PooExtreme.plantillas
+package bigoShop.plantillas
 
 interface SamsungServices {
 
@@ -8,4 +8,5 @@ interface SamsungServices {
                 "un mejor uso del producto. Versión actual: 1.5")
     }
     fun addOption()
+
 }

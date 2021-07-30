@@ -1,4 +1,4 @@
-package PooExtreme.plantillas
+package bigoShop.plantillas
 
 interface Consumo{
 
